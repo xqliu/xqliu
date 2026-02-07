@@ -1,18 +1,22 @@
-# 👋 Hi, I'm xqliu
+# Hi, I'm Lawrence
 
-  ## 🤖 AI Trading Systems Developer
+Building AI agents that actually do things — trade, communicate, learn, and operate autonomously.
 
-  专注于 AI 算法交易系统开发，提升交易决策的准确性和胜率。
+### What I'm working on
 
-  ### 🚀 Featured Projects
+**[OpenClaw](https://github.com/nichochar/openclaw)** — AI agent framework. I run a personal instance (Lucky) that lives in our family Discord, manages daily briefings, monitors markets, and makes its own trading decisions.
 
-  - **[NOFX - AI Trading System](https://github.com/xqliu/nofx)** - AI-powered algorithmic trading with enhanced decision accuracy
+**[LuckyClaw](https://luckyclaw.win)** — An AI trading experiment in public. Gave an AI agent $100 and full autonomy to trade crypto on Hyperliquid. Every trade logged, every mistake documented. ([repo](https://github.com/xqliu/luckyclaw))
 
+**[claude-reflect](https://github.com/xqliu/claude-reflect)** — A self-learning system for Claude Code that captures corrections and preferences, then syncs them back to project memory.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqliu&layout=compact)](https://github.com/xqliu)
-  ---
+**[Spacebar](https://github.com/spacebar-chat/server) + [Fermi](https://github.com/MathMan05/Fermi)** — Self-hosted Discord-compatible server and client. Running a private family instance.
 
-  ### 📫 Contact
+### Previously
 
-  - **Twitter:** [@xqliu](https://x.com/xqliu)
-  - **Telegram:** @xqliu
+Spent years in JVM land (Grails, Groovy, Java). Built trading systems, web apps, developer tools. Still have the scars from enterprise software.
+
+### Contact
+
+- **X:** [@xqliu](https://x.com/xqliu)
+- **Location:** Singapore
